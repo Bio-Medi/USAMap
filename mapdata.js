@@ -73,257 +73,257 @@ var simplemaps_usmap_mapdata={
     HI: {
       color: "#ffdaca",
       name: "Hawaii",
-      description: "RATE: 1284 DEATHS: 2862"
+      description: "12 %"
     },
     AK: {
       color: "#ffb697",
       name: "Alaska",
-      description: "RATE: 1457 DEATHS: 1013"
+      description: "15 %"
     },
     FL: {
       color: "#ffdaca",
       name: "Florida",
-      description: "RATE: 1409 DEATHS: 49877"
+      description: "15 %"
     },
     NH: {
       color: "#ffb697",
       name: "New Hampshire",
-      description: "RATE: 1475 DEATHS: 2951"
+      description: "18 %"
     },
     VT: {
       color: "#ff9264",
       name: "Vermont",
-      description: "RATE: 1651 DEATHS: 1589"
+      description: "18 %"
     },
     ME: {
       color: "#ff6e31",
       name: "Maine",
-      description: "RATE: 1671 DEATHS: 3592"
+      description: "21 %"
     },
     RI: {
       color: "#ffb697",
       name: "Rhode Island",
-      description: "RATE: 1526 DEATHS: 2369"
+      description: "18 %"
     },
     NY: {
       color: "#ff9264",
       name: "New York",
-      description: "RATE: 1592 DEATHS: 43237"
+      description: "21 %"
     },
     PA: {
       color: "#ff6e31",
       name: "Pennsylvania",
-      description: "RATE: 1734 DEATHS: 32522"
+      description: "21 %"
     },
     NJ: {
       color: "#ffb697",
       name: "New Jersey",
-      description: "RATE: 1528 DEATHS: 18707"
+      description: "18 %"
     },
     DE: {
       color: "#ff9264",
       name: "Delaware",
-      description: "RATE: 1568 DEATHS: 2220"
+      description: "19 %"
     },
     MD: {
       color: "#ffb697",
       name: "Maryland",
-      description: "RATE: 1558 DEATHS: 12086"
+      description: "13 %"
     },
     VA: {
       color: "#ff9264",
       name: "Virginia",
-      description: "RATE: 1592 DEATHS: 16902"
+      description: "14 %"
     },
     WV: {
       color: "#fd4b00",
       name: "West Virginia",
-      description: "RATE: 2095 DEATHS: 5399"
+      description: "19 %"
     },
     OH: {
       color: "#fd4b00",
       name: "Ohio",
-      description: "RATE: 1939 DEATHS: 30041"
+      description: "17 %"
     },
     IN: {
       color: "#ffdaca",
       name: "Indiana",
-      description: "RATE: 185 DEATHS: 15385"
+      description: "18 %"
     },
     IL: {
       color: "#ff6e31",
       name: "Illinois",
-      description: "RATE: 1666 DEATHS: 26781"
+      description: "16 %"
     },
     CT: {
       color: "#ffdaca",
       name: "Connecticut",
-      description: "RATE: 1378 DEATHS: 6899"
+      description: "17 %"
     },
     WI: {
       color: "#ff6e31",
       name: "Wisconsin",
-      description: "RATE: 1666 DEATHS: 13128"
+      description: "15 %"
     },
     NC: {
       color: "#ff9264",
       name: "North Carolina",
-      description: "RATE: 1658 DEATHS: 21763"
+      description: "13 %"
     },
     DC: {
       color: "#ff6e31",
       name: "District of Columbia",
-      description: "RATE: 1826 DEATHS: 1239"
+      description: "17 %"
     },
     MA: {
       color: "#ffdaca",
       name: "Massachusetts",
-      description: "RATE: 1323 DEATHS: 12427"
+      description: "20 %"
     },
     TN: {
       color: "#fd4b00",
       name: "Tennessee",
-      description: "RATE: 2183 DEATHS: 18727"
+      description: "13 %"
     },
     AR: {
       color: "#fd4b00",
       name: "Arkansas",
-      description: "RATE: 2241 DEATHS: 8664"
+      description: "16 %"
     },
     MO: {
       color: "#fd4b00",
       name: "Missouri",
-      description: "RATE: 1998 DEATHS: 16143"
+      description: "14 %"
     },
     GA: {
       color: "#fd4b00",
       name: "Georgia",
-      description: "RATE: 1839 DEATHS: 21728"
+      description: "13 %"
     },
     SC: {
       color: "#ff6e31",
       name: "South Carolina",
-      description: "RATE: 1777 DEATHS: 12038"
+      description: "14 %"
     },
     KY: {
       color: "#fd4b00",
       name: "Kentucky",
-      description: "RATE: 2086 DEATHS: 11654"
+      description: "17 %"
     },
     AL: {
       color: "#fd4b00",
       name: "Alabama",
-      description: "RATE: 2342 DEATHS: 14958"
+      description: "13 %"
     },
     LA: {
       color: "#ffdaca",
       name: "Louisiana",
-      description: "RATE: 224 DEATHS: 12284"
+      description: "13 %"
     },
     MS: {
       color: "#ffdaca",
       name: "Mississippi",
-      description: "RATE: 248 DEATHS: 8858"
+      description: "16 %"
     },
     IA: {
       color: "#ff6e31",
       name: "Iowa",
-      description: "RATE: 1768 DEATHS: 7786"
+      description: "14 %"
     },
     MN: {
       color: "#ffdaca",
       name: "Minnesota",
-      description: "RATE: 1241 DEATHS: 9175"
+      description: "17 %"
     },
     OK: {
       color: "#fd4b00",
       name: "Oklahoma",
-      description: "RATE: 2571 DEATHS: 12268"
+      description: "17 %"
     },
     TX: {
       color: "#ff6e31",
       name: "Texas",
-      description: "RATE: 1723 DEATHS: 50672"
+      description: "13 %"
     },
     NM: {
       color: "#ff9264",
       name: "New Mexico",
-      description: "RATE: 1568 DEATHS: 4369"
+      description: "17 %"
     },
     KS: {
       color: "#ff6e31",
       name: "Kansas",
-      description: "RATE: 1732 DEATHS: 6440"
+      description: "17 %"
     },
     NE: {
       color: "#ffb697",
       name: "Nebraska",
-      description: "RATE: 1543 DEATHS: 3804"
+      description: "17 %"
     },
     SD: {
       color: "#ff9264",
       name: "South Dakota",
-      description: "RATE: 1582 DEATHS: 1850"
+      description: "16 %"
     },
     ND: {
       color: "#ffdaca",
       name: "North Dakota",
-      description: "RATE: 155 DEATHS: 1538"
+      description: "15 %"
     },
     WY: {
       color: "#ff9264",
       name: "Wyoming",
-      description: "RATE: 1571 DEATHS: 1150"
+      description: "18 %"
     },
     MT: {
       color: "#ff6e31",
       name: "Montana",
-      description: "RATE: 1659 DEATHS: 2539"
+      description: "14 %"
     },
     CO: {
       color: "#ffdaca",
       name: "Colorado",
-      description: "RATE: 1314 DEATHS: 8389"
+      description: "13 %"
     },
     UT: {
       color: "#ff9264",
       name: "Utah",
-      description: "RATE: 1594 DEATHS: 4460"
+      description: "13 %"
     },
     AZ: {
       color: "#ffb697",
       name: "Arizona",
-      description: "RATE: 1485 DEATHS: 14593"
+      description: "13 %"
     },
     NV: {
       color: "#fd4b00",
       name: "Nevada",
-      description: "RATE: 1968 DEATHS: 7337"
+      description: "13 %"
     },
     OR: {
       color: "#ffb697",
       name: "Oregon",
-      description: "RATE: 1454 DEATHS: 8152"
+      description: "15 %"
     },
     WA: {
       color: "#ffb697",
       name: "Washington",
-      description: "RATE: 1427 DEATHS: 13218"
+      description: "14 %"
     },
     CA: {
       color: "#ffb697",
       name: "California",
-      description: "RATE: 1424 DEATHS: 66340"
+      description: "14 %"
     },
     MI: {
       color: "#fd4b00",
       name: "Michigan",
-      description: "RATE: 2063 DEATHS: 27266"
+      description: "14 %"
     },
     ID: {
       color: "#ff9264",
       name: "Idaho",
-      description: "RATE: 1563 DEATHS: 3491"
+      description: "12 %"
     },
     GU: {
       hide: "yes",
@@ -333,17 +333,17 @@ var simplemaps_usmap_mapdata={
     VI: {
       hide: "yes",
       name: "Virgin Islands",
-      description: " "
+      description: "9 %"
     },
     PR: {
       hide: "yes",
       name: "Puerto Rico",
-      description: " "
+      description: "37 % "
     },
     MP: {
       hide: "yes",
       name: "Northern Mariana Islands",
-      description: " "
+      description: " 11 % "
     },
     AS: {
       hide: "yes",
