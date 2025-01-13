@@ -73,257 +73,257 @@ var simplemaps_usmap_mapdata={
     HI: {
       color: "#ffdaca",
       name: "Hawaii",
-      description: "12 %"
+      description: "11.7 %"
     },
     AK: {
       color: "#ffb697",
       name: "Alaska",
-      description: "15 %"
+      description: "14.8 %"
     },
     FL: {
       color: "#ffdaca",
       name: "Florida",
-      description: "15 %"
+      description: "15.1 %"
     },
     NH: {
       color: "#ffb697",
       name: "New Hampshire",
-      description: "18 %"
+      description: "18.3 %"
     },
     VT: {
       color: "#ff9264",
       name: "Vermont",
-      description: "18 %"
+      description: "18.5 %"
     },
     ME: {
       color: "#ff6e31",
       name: "Maine",
-      description: "21 %"
+      description: "20.6 %"
     },
     RI: {
       color: "#ffb697",
       name: "Rhode Island",
-      description: "18 %"
+      description: "17.9 %"
     },
     NY: {
       color: "#ff9264",
       name: "New York",
-      description: "21 %"
+      description: "20.7 %"
     },
     PA: {
       color: "#ff6e31",
       name: "Pennsylvania",
-      description: "21 %"
+      description: "21.1 %"
     },
     NJ: {
       color: "#ffb697",
       name: "New Jersey",
-      description: "18 %"
+      description: "17.6 %"
     },
     DE: {
       color: "#ff9264",
       name: "Delaware",
-      description: "19 %"
+      description: "19.4 %"
     },
     MD: {
       color: "#ffb697",
       name: "Maryland",
-      description: "13 %"
+      description: "12.9 %"
     },
     VA: {
       color: "#ff9264",
       name: "Virginia",
-      description: "14 %"
+      description: "14.1 %"
     },
     WV: {
       color: "#fd4b00",
       name: "West Virginia",
-      description: "19 %"
+      description: "18.7 %"
     },
     OH: {
       color: "#fd4b00",
       name: "Ohio",
-      description: "17 %"
+      description: "16.6 %"
     },
     IN: {
       color: "#ffdaca",
       name: "Indiana",
-      description: "18 %"
+      description: "18.2 %"
     },
     IL: {
       color: "#ff6e31",
       name: "Illinois",
-      description: "16 %"
+      description: "15.9 %"
     },
     CT: {
       color: "#ffdaca",
       name: "Connecticut",
-      description: "17 %"
+      description: "17.3 %"
     },
     WI: {
       color: "#ff6e31",
       name: "Wisconsin",
-      description: "15 %"
+      description: "15.2 %"
     },
     NC: {
       color: "#ff9264",
       name: "North Carolina",
-      description: "13 %"
+      description: "13.1 %"
     },
     DC: {
       color: "#ff6e31",
       name: "District of Columbia",
-      description: "17 %"
+      description: "16.6 %"
     },
     MA: {
       color: "#ffdaca",
       name: "Massachusetts",
-      description: "20 %"
+      description: "19.7 %"
     },
     TN: {
       color: "#fd4b00",
       name: "Tennessee",
-      description: "13 %"
+      description: "13.1 %"
     },
     AR: {
       color: "#fd4b00",
       name: "Arkansas",
-      description: "16 %"
+      description: "16.3 %"
     },
     MO: {
       color: "#fd4b00",
       name: "Missouri",
-      description: "14 %"
+      description: "14.3 %"
     },
     GA: {
       color: "#fd4b00",
       name: "Georgia",
-      description: "13 %"
+      description: "13.2 %"
     },
     SC: {
       color: "#ff6e31",
       name: "South Carolina",
-      description: "14 %"
+      description: "14.2 %"
     },
     KY: {
       color: "#fd4b00",
       name: "Kentucky",
-      description: "17 %"
+      description: "16.6 %"
     },
     AL: {
       color: "#fd4b00",
       name: "Alabama",
-      description: "13 %"
+      description: "13.3 %"
     },
     LA: {
       color: "#ffdaca",
       name: "Louisiana",
-      description: "13 %"
+      description: "13.5 %"
     },
     MS: {
       color: "#ffdaca",
       name: "Mississippi",
-      description: "16 %"
+      description: "15.7 %"
     },
     IA: {
       color: "#ff6e31",
       name: "Iowa",
-      description: "14 %"
+      description: "14.0 %"
     },
     MN: {
       color: "#ffdaca",
       name: "Minnesota",
-      description: "17 %"
+      description: "17.5 %"
     },
     OK: {
       color: "#fd4b00",
       name: "Oklahoma",
-      description: "17 %"
+      description: "17.2 %"
     },
     TX: {
       color: "#ff6e31",
       name: "Texas",
-      description: "13 %"
+      description: "12.7 %"
     },
     NM: {
       color: "#ff9264",
       name: "New Mexico",
-      description: "17 %"
+      description: "17.8 %"
     },
     KS: {
       color: "#ff6e31",
       name: "Kansas",
-      description: "17 %"
+      description: "16.6 %"
     },
     NE: {
       color: "#ffb697",
       name: "Nebraska",
-      description: "17 %"
+      description: "16.8 %"
     },
     SD: {
       color: "#ff9264",
       name: "South Dakota",
-      description: "16 %"
+      description: "16.4 %"
     },
     ND: {
       color: "#ffdaca",
       name: "North Dakota",
-      description: "15 %"
+      description: "14.9 %"
     },
     WY: {
       color: "#ff9264",
       name: "Wyoming",
-      description: "18 %"
+      description: "17.7 %"
     },
     MT: {
       color: "#ff6e31",
       name: "Montana",
-      description: "14 %"
+      description: "14.0 %"
     },
     CO: {
       color: "#ffdaca",
       name: "Colorado",
-      description: "13 %"
+      description: "13.0 %"
     },
     UT: {
       color: "#ff9264",
       name: "Utah",
-      description: "13 %"
+      description: "13.3 %"
     },
     AZ: {
       color: "#ffb697",
       name: "Arizona",
-      description: "13 %"
+      description: "13.2 %"
     },
     NV: {
       color: "#fd4b00",
       name: "Nevada",
-      description: "13 %"
+      description: "13.2 %"
     },
     OR: {
       color: "#ffb697",
       name: "Oregon",
-      description: "15 %"
+      description: "15.2 %"
     },
     WA: {
       color: "#ffb697",
       name: "Washington",
-      description: "14 %"
+      description: "13.9 %"
     },
     CA: {
       color: "#ffb697",
       name: "California",
-      description: "14 %"
+      description: "13.6 %"
     },
     MI: {
       color: "#fd4b00",
       name: "Michigan",
-      description: "14 %"
+      description: "13.9 %"
     },
     ID: {
       color: "#ff9264",
       name: "Idaho",
-      description: "12 %"
+      description: "12.1 %"
     },
     GU: {
       hide: "yes",
@@ -333,17 +333,17 @@ var simplemaps_usmap_mapdata={
     VI: {
       hide: "yes",
       name: "Virgin Islands",
-      description: "9 %"
+      description: "9.1 %"
     },
     PR: {
       hide: "yes",
       name: "Puerto Rico",
-      description: "37 % "
+      description: "36.8 % "
     },
     MP: {
       hide: "yes",
       name: "Northern Mariana Islands",
-      description: " 11 % "
+      description: " 11.1 % "
     },
     AS: {
       hide: "yes",
@@ -668,57 +668,57 @@ var simplemaps_usmap_mapdata={
   regions: {},
   data: {
     data: {
-      AK: "1457",
-      AL: "2342",
-      FL: "1409",
-      DE: "1568",
-      CT: "1378",
-      DC: "1826",
-      AR: "2241",
-      GA: "1839",
-      CO: "1314",
-      AZ: "1485",
-      CA: "1424",
-      HI: "1284",
-      NH: "1475",
-      ME: "1671",
-      NY: "1592",
-      NJ: "1528",
-      MD: "1558",
-      IN: "185",
-      IL: "1666",
-      NC: "1658",
-      MA: "1323",
-      MO: "1998",
-      KY: "2086",
-      LA: "224",
-      MS: "248",
-      IA: "1768",
-      MN: "1241",
-      NM: "1568",
-      KS: "1732",
-      NE: "1543",
-      ND: "155",
-      MT: "1659",
-      NV: "1968",
-      MI: "2063",
-      ID: "1563",
-      PA: "1734",
-      OH: "1939",
-      OK: "2571",
-      OR: "1454",
-      VT: "1651",
-      RI: "1526",
-      TN: "2183",
-      SC: "1777",
-      TX: "1723",
-      SD: "1582",
-      UT: "1594",
-      VA: "1592",
-      WV: "2095",
-      WI: "1666",
-      WY: "1571",
-      WA: "1427"
+      AK: "14.8",
+      AL: "13.3",
+      FL: "15.1",
+      DE: "19.4",
+      CT: "17.3",
+      DC: "16.6",
+      AR: "16.3",
+      GA: "13.2",
+      CO: "13.0",
+      AZ: "13.2",
+      CA: "13.6",
+      HI: "11.7",
+      NH: "18.3",
+      ME: "20.6",
+      NY: "20.7",
+      NJ: "17.6",
+      MD: "12.9",
+      IN: "18.2",
+      IL: "15.9",
+      NC: "13.1",
+      MA: "19.7",
+      MO: "14.3",
+      KY: "16.6",
+      LA: "13.5",
+      MS: "15.7",
+      IA: "14.0",
+      MN: "17.5",
+      NM: "17.8",
+      KS: "16.6",
+      NE: "16.8",
+      ND: "14.9",
+      MT: "14.0",
+      NV: "13.2",
+      MI: "13.9",
+      ID: "12.1",
+      PA: "21.1",
+      OH: "16.6",
+      OK: "17.2",
+      OR: "15.2",
+      VT: "18.5",
+      RI: "17.9",
+      TN: "13.1",
+      SC: "14.2",
+      TX: "12.7",
+      SD: "16.4",
+      UT: "13.3",
+      VA: "14.1",
+      WV: "18.7",
+      WI: "15.2",
+      WY: "17.7",
+      WA: "13.9"
     }
   }
 };
